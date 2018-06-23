@@ -1,0 +1,9 @@
+{
+  "mailer": {
+    "service": "Gmail",
+    "host": "localhost",
+    "port": "465",
+    "user": "seungjin429@gmail.com",
+    "password": "whis!346"
+  }
+}
