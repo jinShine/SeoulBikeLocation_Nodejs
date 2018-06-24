@@ -1,6 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 
-var url = 'mongodb://localhost:27017/seoulBikeLocationDB';
+// var url = 'mongodb://localhost:27017/seoulBikeLocationDB';
+var url = 'mongodb+srv://seungjin:whis!346@cluster-11ty7.mongodb.net/test?retryWrites=true' // AWS
 const dbName = 'seoulBikeLocationDB';
 var db;
 
